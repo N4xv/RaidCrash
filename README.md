@@ -1,4 +1,4 @@
-# RaidCrash
+# RaidCrash – 🤖
 
 RaidCrash is a simple Discord bot originally created in **2021**, when I was just starting to learn programming.  
 Because of that, the code is **very basic**, but it still works and can serve as an example for beginners who want to understand how bots interact with Discord servers.
